@@ -1,5 +1,5 @@
 metadata description = 'This template deploys components that are required to show data flowing after cluster provisioning and AIO deployment.'
-
+ 
 /*****************************************************************************/
 /*                          Deployment Parameters                            */
 /*****************************************************************************/
